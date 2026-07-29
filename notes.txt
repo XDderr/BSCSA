@@ -1,0 +1,3 @@
+Learned how to connect my github and my command prompt. Learned more about the different commands and how to edit
+how to use nano and how to save and exit. Control X, y, and enter. Inside a file, i, add, esc, shift colon, wq, and
+enter. Then every file you make and add in the repository, make sure to PUSH IT LIKE LEEEROY JENKINSSSS. 
